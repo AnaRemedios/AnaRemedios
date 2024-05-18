@@ -1,4 +1,4 @@
-<h1 align="left" style="font-family: 'Baskerville', serif;">Hey there! 👋 How’s it going?</h1>
+<h1 align="left" style="font-family: Palatino Linotype, serif;">Hey there! 👋 How’s it going?</h1>
 
 ###
 
