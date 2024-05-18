@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👩‍💻 I’m a passionate Software Engineer and UX/UI Designer with expertise in both front-end and back-end development. I love building intuitive and efficient applications using JavaScript, React, Node.js, and more. Always exploring new technologies to enhance user experiences. Let’s create something amazing together! 🚀</h2>
+<h2 align="left" style="font-family: 'Times New Roman', serif;">👩‍💻 I’m a passionate Software Engineer and UX/UI Designer with expertise in both front-end and back-end development. I love building intuitive and efficient applications using JavaScript, React, Node.js, and more. Always exploring new technologies to enhance user experiences. Let’s create something amazing together! 🚀</h2>
 
 ###
 
