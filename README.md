@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="file:///C:/Users/annas/Downloads/DALL%C2%B7E%202024-05-18%2017.54.50%20-%20A%20Pixar-style%20character,%20a%20young%20woman%20with%20long%20dark%20hair,%20brown%20eyes,%20and%20fair%20skin,%20holding%20a%20computer%20and%20working.%20She%20is%20in%20a%20tech-themed%20office%20.webp"  />
+   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
