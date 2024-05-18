@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Let's go! Follow me on social media</h2>
+<h2 align="left" style="font-family: 'Baskerville', serif;">Let's go! Follow me on social media</h2>
 
 ###
 
