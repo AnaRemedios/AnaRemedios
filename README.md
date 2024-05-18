@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! 👋 How’s it going?</h1>
+<h1 align="left" style="font-family: 'Baskerville', serif;">Hey there! 👋 How’s it going?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first 'Hello World!'<br>📚 I'm currently learning 📚 I'm currently learning generative AI and Claude 3<br>🎯 Goals: To contribute to open-source projects and build impactful software<br>🎲 Fun fact: I'm also an avid rollerblader and enjoy freestyle skating</p>
+<p align="left">✨ Creating bugs since I wrote my first 'Hello World!'<br>📚 I'm currently learning  generative AI and Claude 3<br>🎯 Goals: To contribute to open-source projects and build impactful software<br>🎲 Fun fact: I'm also an avid rollerblader and enjoy freestyle skating</p>
 
 ###
 
