@@ -1,4 +1,4 @@
-<h1 align="left" style="font-family: Palatino Linotype, serif;">Hey there! 👋 How’s it going?</h1>
+<h1 align="left" style="font-family: Helvetica, serif;">Hey there! 👋 How’s it going?</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left" style="font-family: Palatino Linotype, serif;">👩‍💻 I’m a passionate Software Engineer and UX/UI Designer with expertise in both front-end and back-end development. I love building intuitive and efficient applications using JavaScript, React, Node.js, and more. Always exploring new technologies to enhance user experiences. Let’s create something amazing together! 🚀</h2>
+<h2 align="left" style="font-family: Helvetica, serif;">👩‍💻 I’m a passionate Software Engineer and UX/UI Designer with expertise in both front-end and back-end development. I love building intuitive and efficient applications using JavaScript, React, Node.js, and more. Always exploring new technologies to enhance user experiences. Let’s create something amazing together! 🚀</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left" style="font-family: 'Baskerville', serif;">I code with</h2>
+<h2 align="left" style="font-family: Helvetica, serif;">I code with</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left" style="font-family: 'Baskerville', serif;">Let's go! Follow me on social media</h2>
+<h2 align="left" style="font-family: Helvetica, serif;">Let's go! Follow me on social media</h2>
 
 ###
 
