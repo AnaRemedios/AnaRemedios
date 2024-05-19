@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ana and I'm a Full Stark Developer from Brazil.</p>
+<p align="left">My name is Ana and I'm a Full Stack Developer from Brazil.</p>
 
 ###
 
